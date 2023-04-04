@@ -8,7 +8,7 @@ I am Surya Deepak ,  Student and Enthusiast of Computer Science ,mostly I like  
 [![Linkedin Badge](https://img.shields.io/badge/-Surya_Deepak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-deepak-boyina-1155b8216/)
 [![Mail Badge](https://img.shields.io/badge/-boyinasurya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boyinasurya.2002@gmail.com)
 
-### Do Follow me 
+#### Do Follow me 
 ![GitHub followers](https://img.shields.io/github/followers/SuryaDeepakBoyina?style=social)
 
 #### Profile Visits 
