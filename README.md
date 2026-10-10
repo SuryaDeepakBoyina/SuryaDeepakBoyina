@@ -37,60 +37,6 @@ To me, data engineering is the ultimate intersection of **security**, **data man
 Furthermore, I am an **AI-empowered practitioner**. I actively leverage modern AI tooling in my daily workflows to significantly boost my productivity, accelerate my learning curve, and deliver faster, higher-quality results for the business.
 
 
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td align="center" width="160"><b>💻 Languages</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,bash&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,bigquery,duckdb&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>☁️ Cloud</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,snowflake&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Infrastructure</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform,docker,githubactions,git,linux&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🔧 Data<br/>Engineering</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow,spark,pyspark&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>📊 Visualization</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,streamlit&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Webpages</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,astro,cloudflare&theme=dark" /></td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Apache_Iceberg-005577?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
-  <img src="https://img.shields.io/badge/SeaweedFS-008080?style=flat-square" alt="SeaweedFS" />
-  <img src="https://img.shields.io/badge/MinIO-C92847?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/Redpanda-FF0000?style=flat-square&logo=redpanda&logoColor=white" alt="Redpanda" />
-  <img src="https://img.shields.io/badge/Traefik-006093?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
-  <img src="https://img.shields.io/badge/Kestra-8D50F8?style=flat-square" alt="Kestra" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=deepmind&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/uv-000000?style=flat-square&logo=uv&logoColor=white" alt="uv" />
-  <img src="https://img.shields.io/badge/just-000000?style=flat-square&logo=just&logoColor=white" alt="just" />
-</p>
-
-
-
-
-## 📁 Projects
-
 
 
 
